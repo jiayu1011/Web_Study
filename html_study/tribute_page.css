@@ -16,6 +16,12 @@ ul{
 ul li{
     margin: 16px 0;
 }
+blockquote{
+    font-style: italic;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
 
 #main{
     text-align: center;
@@ -23,6 +29,12 @@ ul li{
     padding: 15px;
     border-radius: 5px;
     background-color: #eeeeee;
+}
+#identify{
+    text-align: right;
+}
+#email{
+    font-style: italic;
 }
 #title{
     font-size: 4rem;
